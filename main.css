@@ -369,6 +369,10 @@ li {
 .portfolio-description .cta:hover {
   color: #2f67cd;
 }
+
+.project-name {
+  color: #ffe838;
+}
 /*End services*/
 
 /*Start timeline*/
